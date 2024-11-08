@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">MyCartoonExample</string>
+    <string-array name="cartoon_name_array">
+        <item>Over the Garden Wall</item>
+        <item>Adventure Time</item>
+        <item>Regular Show</item>
+        <item>Gravity Falls</item>
+        <item>The Last Airbender</item>
+        <item>Steven Universe</item>
+        <item>Rick and Morty</item>
+        <item>Gumball</item>
+        <item>BoJack Horseman</item>
+        <item>Samurai Jack</item>
+    </string-array>
+    <string-array name="description_array">
+        <item>
+Two brothers find themselves lost in a strange forest and must journey through unknown lands to find their way home.
+        </item>
+        <item>
+Join Finn the Human and Jake the Dog as they go on surreal and exciting adventures in the magical Land of Ooo.
+        </item>
+        <item>
+Mordecai and Rigby, two friends working at a park, deal with everyday problems that often spiral into bizarre situations.
+        </item>
+        <item>
+Twins Dipper and Mabel uncover the mysteries of Gravity Falls while spending summer with their Great Uncle Stan.
+        </item>
+        <item>
+In a world divided into four nations, young Aang must master the four elements to bring balance and peace.
+        </item>
+        <item>
+Follow the journey of Steven, a young boy discovering his powers and heritage with the help of the Crystal Gems.
+        </item>
+        <item>
+A scientist and his grandson embark on dangerous, bizarre, and often dimension-hopping adventures together.
+        </item>
+        <item>
+Gumball and his adoptive brother Darwin find themselves in humorous, unexpected scenarios in the town of Elmore.
+        </item>
+        <item>
+BoJack, a former sitcom star, struggles with addiction and self-worth in a darkly humorous take on fame and life.
+        </item>
+        <item>
+A skilled samurai, thrown into a dystopian future, fights to return to his time and defeat the evil demon, Aku.
+        </item>
+    </string-array>
+    <string-array name="funfact_array">
+        <item>
+Over the Garden Wall was the first miniseries made by Cartoon Network and was inspired by early American folk art.
+        </item>
+        <item>
+Adventure Time was created by Pendleton Ward, who originally made a short film that went viral online before becoming a full series.
+        </item>
+        <item>
+Regular Show was initially pitched as a show for adults but was adapted for a younger audience while keeping quirky humor.
+        </item>
+        <item>
+Gravity Falls contains many hidden messages and codes, which have kept fans decoding and discovering secrets for years.
+        </item>
+        <item>
+The show\'s creators based Avatar\'s fighting styles on real martial arts, with each element having a unique style.
+        </item>
+        <item>
+Steven Universe was the first Cartoon Network show created by a woman, Rebecca Sugar, and has won several awards for inclusivity.
+        </item>
+        <item>
+Rick and Morty’s characters are loosely based on Doc and Marty from Back to the Future, initially as a parody.
+        </item>
+        <item>
+The Amazing World of Gumball combines various animation styles, from traditional hand-drawn to 3D CGI, within the same episode.
+        </item>
+        <item>
+BoJack Horseman includes detailed background jokes and hidden messages related to Hollywood culture and mental health.
+        </item>
+        <item>
+Samurai Jack was created by Genndy Tartakovsky and is praised for its cinematic storytelling and minimal dialogue.
+        </item>
+    </string-array>
+</resources>
